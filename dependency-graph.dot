@@ -1,0 +1,5 @@
+
+		digraph G{
+      node [shape = box;];
+			"HexagonalClient"->"HexagonalDomain";"HexagonalClient"->"HexagonalServices";"HexagonalServices"->"HexagonalDomain";
+  }
